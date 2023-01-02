@@ -19,7 +19,7 @@ def fetch_data_from_mysql():
 
 # Fetching data from mongodb database
 # For mongodb database virtural database is choosen
-@app.route('/mongodb', methods = ['POST'])
+@app.route('/mongodb', methods = ['GET'])
 def fetch_data_from_mongodb():
     # connecting with mongodb
     
