@@ -1,2 +1,2 @@
 # APIs
-In this repo, I've uploaded all the apis that I've created.
+This simple api is created to find and fetch data from MySQL and database and MongoDB database
